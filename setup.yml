@@ -5,3 +5,4 @@
     - name: Create user
       user:
         name: akash
+        createhome: yes
